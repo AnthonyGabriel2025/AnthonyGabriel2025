@@ -3,8 +3,8 @@ Olá! Eu sou o Anthony Gabriel Bonfim
 - 🔭 No momento, estou trabalhando com Desenvolvimento Web Full-Stack
 - 🌱 Estou aprendendo Angular e Node.js
 - 📫 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/Dele
-- ⚡ Campeão em Xadrez
+- 😄 Pronomes: Ele/Dele
+- ⚡ Campeão em Xadrez 
 
 
 ## Anthony Gabriel Bonfim, Desenvolvedor Web em Angular e Node.js
